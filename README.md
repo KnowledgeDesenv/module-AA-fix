@@ -16,7 +16,7 @@
 ## 2. Implemented Solutions
 
 ### **Issue 1: groupCD Not Working Correctly**
-- The issue occurred because the `groupCD` parameter was mistakenly referenced as `dataBasePath` in the route communicating with `tinydog`.
+- The issue occurred because the `groupCD` parameter was mistakenly referenced as `dataBasePath` in the route communicating with `tinydog2`.
 - Now, `groupCD` must be correctly sent as `CHE001`, `HAV001`, or `BAI001`.
 
 ### **Issue 2: Handling of Route Parameters (`VIN` and `groupCD`)**
