@@ -49,7 +49,7 @@
 
 I have prepared a `collection.json` file with documentation to facilitate testing on Postman.
 
-[Baixar o arquivo](aatests.postman_collection.json)
+[Baixar o arquivo](AAtests.postman_collection.json)
 
 ### **Testing Instructions:**
 1. Before sending the `AA` request, log in using the `login` request.
