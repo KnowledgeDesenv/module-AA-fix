@@ -47,7 +47,7 @@
 
 ## 4. Testing and Documentation
 
-I have prepared a `collection.json` file with documentation to facilitate testing.
+I have prepared a `collection.json` file with documentation to facilitate testing on Postman.
 
 [Baixar o arquivo](aatests.postman_collection.json)
 
